@@ -1,0 +1,8 @@
+{
+  "smtp": {
+    "admin": {
+      "email": "admin@siriussolutions.in",
+      "password": "1234.Qwer"
+    }
+  }
+}
