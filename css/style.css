@@ -579,11 +579,24 @@ img {
   padding: 15px 0px;
 }
 .logo-box {
+<<<<<<< HEAD
   margin-top: 6px;
 }
 .logo a {
   font-size: 35px;
   font-weight: 700;
+=======
+  margin-top: 12px;
+}
+.logo a {
+  font-family: "Fredoka One";
+  font-size: 35px;
+}
+
+.logo-footer a {
+  font-family: "Fredoka One";
+  font-size: 25px;
+>>>>>>> f332534f4d4d3e6cd43766457f8d477162d2115a
 }
 .main-header .main-box .logo-box .logo {
   display: inline-block;
@@ -1415,7 +1428,9 @@ img {
   background: url(../images/background/bg-shape-three.png) center center
     no-repeat;
 }
-
+.carousel-column {
+  margin-top: 120px;
+}
 .image-carousel-one {
   position: relative;
   -webkit-box-shadow: 3px 3px 15px 0px rgba(0, 0, 0, 0.15);
@@ -1887,7 +1902,7 @@ img {
 
 .footer-style-one .footer-upper .copyright {
   position: relative;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 300;
 }
 
